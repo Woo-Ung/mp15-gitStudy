@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\GitHub\\mp15-gitStudy\\test\\test\\test.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\mp15-gitStudy\\Console\\Console\\Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\GitHub\\mp15-gitStudy\\test\\test\\test.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\mp15-gitStudy\\Console\\Console\\Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\mp15-gitStudy\\test\\test\\test.csproj",
-        "projectName": "test",
-        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\mp15-gitStudy\\test\\test\\test.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\mp15-gitStudy\\Console\\Console\\Console.csproj",
+        "projectName": "Console",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\mp15-gitStudy\\Console\\Console\\Console.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\mp15-gitStudy\\test\\test\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\mp15-gitStudy\\Console\\Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
